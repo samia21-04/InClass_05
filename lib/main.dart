@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-
+//Samia Haynes
 void main() {
   runApp(const MaterialApp(home: DigitalPetApp()));
 }
@@ -245,3 +245,4 @@ const SizedBox(height: 16.0),
   );
 }
 }
+//Samia Haynes
